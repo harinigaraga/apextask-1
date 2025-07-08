@@ -20,8 +20,7 @@ A basic webpage built using **HTML**, **CSS**, and **JavaScript** to demonstrate
 
 ## 🚀 Live Demo
 
-[View the Live Page on GitHub Pages](https://yourusername.github.io/apextask-1/)  
-*(Replace with your actual link after pushing)*
+[View the Live Page on GitHub Pages](https://harinigaraga.github.io/apextask-1/)  
 
 ## 🛠️ Technologies Used
 
